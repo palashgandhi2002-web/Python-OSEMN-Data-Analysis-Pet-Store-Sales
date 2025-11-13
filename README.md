@@ -37,7 +37,3 @@ The project aims to practice and apply fundamental data analytics skills learned
 For questions or further discussion on this project, please contact Palash Gandhi.
 
 ***
-
-Would you like help with a more detailed description or additional sections like Contribution guidelines, License, or a summary of skills demonstrated?
-
-[1](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/82423896/ac43c622-afc4-4502-92cd-bfae117f5da7/V2_full_osemn.pdf)
